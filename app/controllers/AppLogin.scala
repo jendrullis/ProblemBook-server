@@ -25,7 +25,7 @@ import java.{util => ju}
 import play.api._
 import play.api.mvc.{Action => _, _}
 import SafeActions._
-import Utils.{OkHtml}
+import controllers.Utils.{OkHtml}
 
 
 /**
